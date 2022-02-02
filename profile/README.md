@@ -1,6 +1,6 @@
-# BAD Lab @ Mahidol University 👋
+# Biomedical and Data Lab @ Mahidol University 👋
 
-- 💫 Biomedical and Data (BAD) lab at the Department of Biomedical Engineering, Mahidol University runs by Titipat Achakulvisut, [titipata](https://github.com/titipata).
+- 💫 Biomedical and Data (BioDat) lab at the Department of Biomedical Engineering, Mahidol University runs by Titipat Achakulvisut, [titipata](https://github.com/titipata).
 - 🍙 Our lab work is in an intersection of applied natural language processing, machine learning, and science of science (or so called metascience).
 - 🧠 We aim to build tools to make better science. We also broadly interested in ML applications for bioengineering.
 - 🤖 This organization repo will hosts course materials, lab website, code, and some research happening at the lab.
